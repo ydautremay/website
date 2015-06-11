@@ -43,7 +43,7 @@ provide access to a range of technologies from application code.
 seamlessly integrates RequireJS and AngularJS to enable the creation of composite Web frontends. It also provides a
 complete Bootstrap-based UI solution.
 * **The Business framework** is the foundation of your business code. Based on the Domain-Driven Design
-methodology, it implements all its concepts as read-to-use building blocks. It also provides various services often
+methodology, it implements all its concepts as ready-to-use building blocks. It also provides various services often
 needed around business code.
 
 ![Stack diagram](/img/stack.svg)
